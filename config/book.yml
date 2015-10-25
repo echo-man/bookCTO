@@ -1,0 +1,11 @@
+---
+slug: bookCTO
+filename: bookCTO
+title: Title of the Book
+subtitle: Change me
+description: Change me.
+author: Author Name
+copyright: 2015
+uuid: f07b2a64-5214-444d-a47f-a853dd55538c
+pdf_preview_page_range: 1..30
+epub_mobi_preview_chapter_range: 0..1
