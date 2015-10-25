@@ -4,11 +4,11 @@
 
 ## Learning Outcome
 \label{sec: Learning-Outcome}
-
+I adding something here
 
 ## Topics
 \label{sec: Topics}
-
+I adding something here also
 
 ### IT Services as part of Corporate Strategy
 \label{subsec: IT-Services-as-part-of-Corporate-Strategy}
